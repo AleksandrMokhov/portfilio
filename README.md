@@ -15,19 +15,21 @@
 
 ## Проекты
 
-<p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
+<p> Проект 1: Тест кабинета для учителей от Skyeng</p>
 <p>Что нужно было сделать:<p>
 <ol>
-  <li>Задача №1</li>
-  <li>Задача №2.</li>
+  <li>Тест-план проекта.</li>
+  <li>Составление тестовой документации.</li>
+  <li>Тестирование.</li>
+  <li>Отчет о тестировании.</li>
 </ol>
 
 <p>Как решал: краткое описание решения (автореферат)<p>
 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
+> <a href="https://aleksandr1992.atlassian.net/l/cp/n6op0rMR">Ссылка на проект</a>
+ 
+> <p> логин: masgso6@gmail.com  </p>
+> <p> пароль: 160792_Qwe </p>
  
  <p>Выводы (итоги):<p>
 <ol>
@@ -59,6 +61,5 @@
 
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: AleksandrMokhov@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/aleksandr-mokhov-039a95252/
