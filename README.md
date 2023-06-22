@@ -28,7 +28,7 @@
   <li>Отчет о тестировании.</li>
 </ol>
 
-> <a href="[https://aleksandr1992.atlassian.net/l/cp/n6op0rMR](https://aleksandr1992.atlassian.net/wiki/spaces/~6376a5f9de5cdaba3a668c55/pages/3702785/1+2)">Ссылка на проект</a>
+> <a href="https://aleksandr1992.atlassian.net/wiki/spaces/~6376a5f9de5cdaba3a668c55/pages/3702785/1+2">Ссылка на проект</a>
  
  
  <p>Выводы (итоги):<p>
