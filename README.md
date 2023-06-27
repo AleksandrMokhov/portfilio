@@ -29,7 +29,8 @@
 </ol>
 
 > <a href="https://aleksandr1992.atlassian.net/wiki/spaces/~6376a5f9de5cdaba3a668c55/pages/3702785/1+2">Ссылка на проект</a>
- 
+> log: masgso6@gmail.com
+> pass: 160792_Qwe
  
  <p>Выводы (итоги):<p>
 <ol>
