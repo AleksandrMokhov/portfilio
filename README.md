@@ -29,8 +29,7 @@ Conduct testing of a web application for teachers of the Skyeng online English s
 </ol>
 
 > <a href="https://aleksandr1992.atlassian.net/wiki/spaces/~6376a5f9de5cdaba3a668c55/pages/3702785/1+2">Link to project</a>
-> log: masgso6@gmail.com
-> pass: 160792_Qwe
+
  
  <p>Conclusions (results):<p>
 <ol>
