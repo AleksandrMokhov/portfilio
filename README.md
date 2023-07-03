@@ -1,12 +1,12 @@
 # Portfolio: QA engineer
 
-## Обо мне 
+## About me
 
-Привет! Меня зовут ``Александр``, я начинающий тестировщик. <br>
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+Hello! My name is ``Aleksander``, I am a beginner tester. <br>
+In this repository you can find some of my projects completed during my training and practice.
 <br>
 
-## Навыки и технологии
+## SKILLS
 ``Jira``,``qase.io``,``SQL``,`` Postman``,`` Mockoon``,``Fiddler``, ``Swagger``, ``Trello``, <br>
  ``Charles``, ``Git``, ``Chrome DevTools``, ``rest api``.
 
